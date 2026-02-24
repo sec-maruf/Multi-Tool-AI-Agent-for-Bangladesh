@@ -1,0 +1,6 @@
+bd_ai_agent/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+databases/*.db
